@@ -66,7 +66,7 @@ const Home = () => {
             ))}
 
             <a
-              href="https://portfolio.spyiweb.com"
+              href="https://techportfolio-gamma.vercel.app/m"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full bg-purple-600 text-white py-2.5 sm:py-3 rounded-xl text-center font-semibold 
